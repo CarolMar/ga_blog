@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About with empty layout
+title: About with own page layout
 permalink: /about/
 ---
 
