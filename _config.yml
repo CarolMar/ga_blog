@@ -30,13 +30,13 @@ markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
-defaults: 
-  -
-    scope:
-      path: ""
-      type: "post"  
-    values:
-         layout: "post"
+# defaults: 
+#   -
+#     scope:
+#       path: ""
+#       type: "post"  
+#     values:
+#          layout: "post"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
