@@ -61,6 +61,11 @@ defaults:
       author_profile: true
       
 include: ["_pages"]
+
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
