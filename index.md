@@ -12,4 +12,4 @@ very strange
   {% include archive-single.html %}
 {% endfor %}
 
-{% include paginator.html %
+{% include paginator.html %}
