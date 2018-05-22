@@ -11,4 +11,4 @@ layout: archive <br>
 title:  "Welcome to Jekyll!"<br>
 date:   2018-04-21 17:32:22 +0800<br>
 categories: jekyll dir1<br>
-permalink: "/mynewurl
+permalink: /post/
